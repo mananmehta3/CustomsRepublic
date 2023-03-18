@@ -3,12 +3,12 @@ const data = {
     {
       name: 'Jewellery',
       slug: 'jewellery',
-      image: '/images/jewellery.jpeg',
+      image: '/images/jewellery.png',
     },
     {
       name: 'Personalized Gifting',
       slug: 'personalized-gifting',
-      image: '/images/gifting.jpeg',
+      image: '/images/gifting.png',
     },
   ],
 };
